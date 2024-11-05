@@ -1,0 +1,6 @@
+{
+    "TestModule": true,
+    "TestModule2": true,
+    "PublicSafetyTestModule": true,
+    "DashboardBackendTestModule": true
+}
